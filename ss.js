@@ -15,7 +15,7 @@ client.on('message', msg => {
 }
 })
 client.on('ready', () => { //code bot not leave room voice //Bot Is Online
-    client.channels.get("ROOM_ID").join(); //by : Omààr CODES .
+    client.channels.get("573800635644903427").join(); //by : Omààr CODES .
     });
 
 
